@@ -5,3 +5,5 @@ It represents food items detected directly through observations of feeding activ
 This repository is prepared for http://globalbioticinteractions.org
 
 [![DOI](https://zenodo.org/badge/76596495.svg)](https://zenodo.org/badge/latestdoi/76596495)
+
+[![Build Status](https://travis-ci.org/diatomsRcool/yellowstone_grizzly.svg?branch=master)](https://travis-ci.org/diatomsRcool/yellowstone_grizzly)
